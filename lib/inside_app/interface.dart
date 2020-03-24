@@ -172,7 +172,7 @@ class _StartState extends State<Start> {
                     // width: 148,
                     // text: "CHERRY",
                     // size: 20,
-                    image2: "assets/images/dragon fruit.png",
+                    image2: "assets/images/dragon_fruit.png",
                     width2: 125,
                     text2: "DRAGON",
                     size2: 20,
