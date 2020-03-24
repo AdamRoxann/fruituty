@@ -157,7 +157,7 @@ class _StartState extends State<Start> {
                 InkWell(
                   onTap: () {
                     setState(() {
-                      image_pop = "assets/images/dragon fruit.png";
+                      image_pop = "assets/images/dragon_fruit.png";
                       text_pop = "DRAGON FRUIT";
                       sound_url = "sound/dragon_fruit.mp3";
                     });
